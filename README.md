@@ -3,7 +3,7 @@
 admin
 username: admin
 password: lemon@123!
-token:
+token: f4cc3650e4da17c9f52c9074fb7d8635d9b2b6de
 
 users
 username: johndoe
